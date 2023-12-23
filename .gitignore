@@ -6,6 +6,33 @@ __pycache__/
 # C extensions
 *.so
 
+# Files used
+1.csv.gz
+2.csv.gz
+3.csv.gz
+4.csv.gz
+5.csv.gz
+6.csv.gz
+7.csv.gz
+8.csv.gz
+9.csv.gz
+10.csv.gz
+11.csv.gz
+12.csv.gz
+13.csv.gz
+14.csv.gz
+15.csv.gz
+16.csv.gz
+17.csv.gz
+general_table_1_1.csv
+general_table_2_n.csv
+general_table_8_n.csv
+general_table_12_n.csv
+general_tabel_target_1_1.csv
+general_table_target_2_n.csv
+general_table_target_8_n.csv
+general_table_target_12_n.csv
+
 # Distribution / packaging
 .Python
 build/
